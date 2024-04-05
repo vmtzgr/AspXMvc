@@ -1,0 +1,24 @@
+﻿
+<@ViewBag.RootTag>
+    @if (ViewBag.LoadingMessage != null)
+    {
+        <div class="loadingMessage">
+            @Html.Raw(ViewBag.LoadingMessage)
+        </div>
+    }
+    else
+    {
+        <div class="loadingMessage">
+            Anwendung wird gestartet...
+        </div>
+    }
+</@ViewBag.RootTag>
+
+
+@section scripts{
+    <partial name="../Shared/_FrontendScripts" />
+}
+
+@section styles{
+    <partial name="../Shared/_FrontendStyles" />
+}

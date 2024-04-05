@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/309.8d999b74e8c10fd7.js",
+      "PackagePath": "staticwebassets/ng-aspxangular/309.8d999b74e8c10fd7.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets/ng-aspxangular/3rdpartylicenses.txt"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/823.3c1061beac531b2e.js",
+      "PackagePath": "staticwebassets/ng-aspxangular/823.3c1061beac531b2e.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/Inter-italic.var.958a0b9742fb3ae8.woff2",
+      "PackagePath": "staticwebassets/ng-aspxangular/Inter-italic.var.958a0b9742fb3ae8.woff2"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/Inter-roman.var.b2129c009ce46d43.woff2",
+      "PackagePath": "staticwebassets/ng-aspxangular/Inter-roman.var.b2129c009ce46d43.woff2"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/color.dae87a04d07ca92b.png",
+      "PackagePath": "staticwebassets/ng-aspxangular/color.dae87a04d07ca92b.png"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/favicon.ico",
+      "PackagePath": "staticwebassets/ng-aspxangular/favicon.ico"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/hue.8b1818380241e6ac.png",
+      "PackagePath": "staticwebassets/ng-aspxangular/hue.8b1818380241e6ac.png"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/index.html",
+      "PackagePath": "staticwebassets/ng-aspxangular/index.html"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/main.fb54220be1dea6da.js",
+      "PackagePath": "staticwebassets/ng-aspxangular/main.fb54220be1dea6da.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/polyfills.119911d475c82418.js",
+      "PackagePath": "staticwebassets/ng-aspxangular/polyfills.119911d475c82418.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/primeicons.0112589c5695a9ed.ttf",
+      "PackagePath": "staticwebassets/ng-aspxangular/primeicons.0112589c5695a9ed.ttf"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/primeicons.943ab24c43224d29.svg",
+      "PackagePath": "staticwebassets/ng-aspxangular/primeicons.943ab24c43224d29.svg"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/primeicons.ba3f916dfb64be8c.woff2",
+      "PackagePath": "staticwebassets/ng-aspxangular/primeicons.ba3f916dfb64be8c.woff2"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/primeicons.f8b9e8a4e401b603.woff",
+      "PackagePath": "staticwebassets/ng-aspxangular/primeicons.f8b9e8a4e401b603.woff"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/primeicons.ffecb2549ad1765a.eot",
+      "PackagePath": "staticwebassets/ng-aspxangular/primeicons.ffecb2549ad1765a.eot"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/runtime.2eb69a7613aad8da.js",
+      "PackagePath": "staticwebassets/ng-aspxangular/runtime.2eb69a7613aad8da.js"
+    },
+    {
+      "Id": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/styles.3e5fab8d8b5efa22.css",
+      "PackagePath": "staticwebassets/ng-aspxangular/styles.3e5fab8d8b5efa22.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ASPxAngular.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ASPxAngular.props",
+      "PackagePath": "build\\ASPxAngular.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ASPxAngular.props",
+      "PackagePath": "buildMultiTargeting\\ASPxAngular.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ASPxAngular.props",
+      "PackagePath": "buildTransitive\\ASPxAngular.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
