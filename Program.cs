@@ -1,4 +1,5 @@
 using ASPxAngular.Database;
+using ITfoxtec.Identity.Saml2;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.Configure<Saml2Configuration>(builder.Configuration.GetSection("SAML2"));
 
 builder.Services.AddDbContext<UserDbContext>(db => db.UseSqlite("Datasource=app.db"));
 
@@ -25,7 +28,7 @@ builder.Services.AddAuthentication(o =>
                     o.DefaultScheme = IdentityConstants.BearerScheme;
                     o.DefaultChallengeScheme = IdentityConstants.ApplicationScheme;
                 })
-                .AddBearerToken(IdentityConstants.BearerScheme)
+                // .AddBearerToken(IdentityConstants.BearerScheme)
                 .AddCookie(o =>
                 {
                     o.Cookie.HttpOnly = true;
