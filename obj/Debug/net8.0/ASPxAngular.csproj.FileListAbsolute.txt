@@ -287,6 +287,7 @@
 /Users/vlad/Playground/asp_spa/ASPxAngular/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /Users/vlad/Playground/asp_spa/ASPxAngular/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/vlad/Playground/asp_spa/ASPxAngular/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+<<<<<<< HEAD
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/appsettings.Development.json
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/appsettings.json
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/ASPxAngular.staticwebassets.runtime.json
@@ -605,3 +606,6 @@
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/zh-Hans/System.ServiceModel.Primitives.resources.dll
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/zh-Hant/System.ServiceModel.Primitives.resources.dll
 /Users/vladislavmetzger/Playground/asp_net/AspXMvc/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+=======
+/Users/vlad/Playground/asp_spa/ASPxAngular/obj/Debug/net8.0/ASPxAngular.sourcelink.json
+>>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
