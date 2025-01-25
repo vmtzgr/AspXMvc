@@ -9759,13 +9759,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Fehler beim Abrufen von Paketsicherheitsrisikodaten: Access to the path '/Users/vladislavmetzger/.local/share' is denied."
-    }
-  ]
+  }
 }

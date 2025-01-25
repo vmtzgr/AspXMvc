@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "R3SVX6LdA4dRL2+ZEiwsxueSvlrdTeQii6W+o+PmpUo=",
-=======
-  "Hash": "SXRy7eTFBoXuhmdC1gkkTehdO+RDw1a0Sqaj22ToiMA=",
->>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
+  "Hash": "Xw8rZr9Pluch3MDm+KbDIjTecl2ODFETZ7KnitXs3WE=",
   "Source": "ASPxAngular",
   "BasePath": "_content/ASPxAngular",
   "Mode": "Default",
@@ -2301,11 +2297,7 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/LICENSE.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/309.8d999b74e8c10fd7.js",
-=======
-      "Identity": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/309.a329bdda521312ce.js",
->>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
+      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/309.a329bdda521312ce.js",
       "SourceId": "ASPxAngular",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/",
@@ -2343,16 +2335,12 @@
       "OriginalItemSpec": "wwwroot/ng-aspxangular/3rdpartylicenses.txt"
     },
     {
-<<<<<<< HEAD
-      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/823.3c1061beac531b2e.js",
-=======
-      "Identity": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/67.1677b37a6c6cfb19.js",
->>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
+      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/67.8ca333a8fd2c4387.js",
       "SourceId": "ASPxAngular",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/",
       "BasePath": "_content/ASPxAngular",
-      "RelativePath": "ng-aspxangular/67.1677b37a6c6cfb19.js",
+      "RelativePath": "ng-aspxangular/67.8ca333a8fd2c4387.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2363,7 +2351,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/ng-aspxangular/67.1677b37a6c6cfb19.js"
+      "OriginalItemSpec": "wwwroot/ng-aspxangular/67.8ca333a8fd2c4387.js"
     },
     {
       "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/color.dae87a04d07ca92b.png",
@@ -2480,16 +2468,12 @@
       "OriginalItemSpec": "wwwroot/ng-aspxangular/Inter-roman.var.b2129c009ce46d43.woff2"
     },
     {
-<<<<<<< HEAD
-      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/main.fb54220be1dea6da.js",
-=======
-      "Identity": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/main.fd77d8fe20aa60d4.js",
->>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
+      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/main.ad9021f574084bc7.js",
       "SourceId": "ASPxAngular",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/",
       "BasePath": "_content/ASPxAngular",
-      "RelativePath": "ng-aspxangular/main.fd77d8fe20aa60d4.js",
+      "RelativePath": "ng-aspxangular/main.ad9021f574084bc7.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2500,7 +2484,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/ng-aspxangular/main.fd77d8fe20aa60d4.js"
+      "OriginalItemSpec": "wwwroot/ng-aspxangular/main.ad9021f574084bc7.js"
     },
     {
       "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/polyfills.119911d475c82418.js",
@@ -2617,16 +2601,12 @@
       "OriginalItemSpec": "wwwroot/ng-aspxangular/primeicons.ffecb2549ad1765a.eot"
     },
     {
-<<<<<<< HEAD
-      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/runtime.2eb69a7613aad8da.js",
-=======
-      "Identity": "/Users/vlad/Playground/asp_spa/ASPxAngular/wwwroot/ng-aspxangular/runtime.0673316506dbb9d4.js",
->>>>>>> 474ad9f2b5a8317326f6a98ab6817cd073988a50
+      "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/runtime.b245d12d52074b11.js",
       "SourceId": "ASPxAngular",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/",
       "BasePath": "_content/ASPxAngular",
-      "RelativePath": "ng-aspxangular/runtime.0673316506dbb9d4.js",
+      "RelativePath": "ng-aspxangular/runtime.b245d12d52074b11.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -2637,7 +2617,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/ng-aspxangular/runtime.0673316506dbb9d4.js"
+      "OriginalItemSpec": "wwwroot/ng-aspxangular/runtime.b245d12d52074b11.js"
     },
     {
       "Identity": "/Users/vladislavmetzger/Playground/asp_net/AspXMvc/wwwroot/ng-aspxangular/styles.3e5fab8d8b5efa22.css",

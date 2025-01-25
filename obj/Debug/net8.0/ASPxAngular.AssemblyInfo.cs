@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASPxAngular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42ba4d04f21e3d34be4171cc506f3bb01702947f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cddcf8018448857682fc2a41f5b3158efac847f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASPxAngular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASPxAngular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

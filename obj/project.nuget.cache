@@ -199,12 +199,5 @@
     "/Users/vladislavmetzger/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "/Users/vladislavmetzger/.nuget/packages/system.windows.extensions/7.0.0/system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Fehler beim Abrufen von Paketsicherheitsrisikodaten: Access to the path '/Users/vladislavmetzger/.local/share' is denied."
-    }
-  ]
+  "logs": []
 }
